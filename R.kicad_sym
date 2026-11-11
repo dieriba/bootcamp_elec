@@ -34,7 +34,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)

@@ -336,7 +336,7 @@
 				)
 			)
 			(pin power_in line
-				(at -55.88 55.88 270)
+				(at -54.61 55.88 270)
 				(length 3.81)
 				(name "AVCC"
 					(effects
